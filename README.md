@@ -42,3 +42,9 @@ The tracking algorithm captured a track length of **37 time steps**, starting on
 The accuracy of the method is demonstrated below for **Cyclone Index = 27716**. The tracking algorithm captured a track length of **51 six-hourly time steps**, starting on **2016-08-13 18:00 UTC** and ending on **2016-08-26 06:00 UTC**, as recorded in the `TIME_RECORD` variable of the tracking algorithm output file. The track has been plotted using `LAT_RECORD` and `LON_RECORD` as x-y coordinates, with `VOM_RECORD` representing the intensity of the cyclone, shown as the color of the track.
 
 ![Cyclone Track with Vorticity](figures/lps_track_aug2016_horizontal_cb.png)
+
+
+**Example 3:** Track of a random middle troposhere cyclone (MTC) that formed over Gujarat and remain quasi stationary, precisely tracked by the tracking algorithm.
+The accuracy of the method is demonstrated below for **Cyclone Index = 11198**. The tracking algorithm captured a track length of **34 six-hourly time steps**, starting on **2005-06-25 18:00 UTC** and ending on **2005-07-04 00:00 UTC**, as recorded in the `TIME_RECORD` variable of the tracking algorithm output file. The track has been plotted using `LAT_RECORD` and `LON_RECORD` as x-y coordinates, with `VOM_RECORD` representing the intensity of the cyclone, shown as the color of the track.
+
+![Cyclone Track with Vorticity](figures/lps_track_aug2016_horizontal_cb.png)
