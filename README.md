@@ -17,3 +17,5 @@ Originally implemented in NCL, with plans to expand the implementation to Python
 Easy integration with observational or model datasets.
 
 This tool is intended for researchers and meteorologists who need a reliable and automated method for analyzing cyclones and other dynamic atmospheric systems.
+The accuracy of method is shown in the shown as it tarcked by tarcking algoritm for cyclone index = 39 which is corrosponds to june 1998 cyclone with track lenght of 37 starting from 1998060118 and ending on 1998061018 and shown ![Cyclone Track with Vorticity](figures/track_accuracy.png)
+ 
