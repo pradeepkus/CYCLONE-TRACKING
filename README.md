@@ -14,7 +14,7 @@ The method is highly accurate and has been validated against manually tracked cy
 This tool is intended for researchers and meteorologists who need a reliable and automated method for analyzing cyclones and other dynamic atmospheric systems.
 The track data from june-september 1998-2019 can be downloaded from the following link : 
 IMPORTENT NOTE CYCLONE OUTPUT FILE : 
-This file contains the raw output of an automatic cyclone detection and tracking algorithm (more details : Classification of mid-tropopsheric cyclones over the Arabian Sea and western India https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4466) over the region and run over the region (5 to 30 N and 45 to 115 E) using 600 hPa for mid level systems analysis. Only tracks which lasted for 24 hours or 4 track points are stored" \
+This file contains the raw output of an automatic cyclone detection and tracking algorithm (more details : Classification of mid-tropopsheric cyclones over the Arabian Sea and western India https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.4466) over the region and run over the region (0 to 25 N and 60 to 130 E) using 600 hPa for mid level systems analysis. Only tracks which lasted for 24 hours or 4 track points are stored" \
                  + "The dataset stores cyclone/system track information in a 3D array (TREJ) along with associated properties: " \
                  + "TIME_RECORD (timestamps), LAT_RECORD and LON_RECORD (track positions), DIFF_RECORD (mid-level minus lower-level vorticity), " \
                  + "VOM_RECORD (mid-level vorticity), Q_RECORD (mid-level humidity), PMAX_RECORD (pressure of max vorticity), " \
